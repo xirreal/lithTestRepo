@@ -1,1 +1,31 @@
-[{"name":"Acrylic settings","description":"Settings for Acrylic.","version":"0.0.0","tags":["quick-actions","customization"],"authors":["189079074054995969"],"hash":"598de48b62a77acb84da25936e51bec8ff691e97fbfaac8a255742ebc4b0f3e0a92dcb66c17ade434a177b281f801204de17bdf7c276946825f47fdfee728b54","github":{"stars":0,"repo":"xirreal/acrylicSettings"},"images":[]}]
+{
+    "modules": [{
+        "name": "AuroraGSI",
+        "description": "Port of AuroraGSI for GooseMod.",
+        "version": "1.0.0",
+        "tags": ["customization"],
+        "authors": ["189079074054995969"],
+        "hash": "d3c677b19c7db2a50e30688ad9e18ff6c1e647afe7fad26af00ba4a8f1b5419c4ef31311fcbbf8906120640379535059b05507c608d73f61b5d969f31edd0e66",
+        "github": {
+            "stars": 0,
+            "repo": "xirreal/AuroraGSI"
+        },
+        "images": []
+    }, {
+        "name": "Clockwork",
+        "description": "Adds alarms and timers to Discord.",
+        "version": "0.0.1",
+        "tags": ["DOM", "quick-actions"],
+        "authors": ["189079074054995969"],
+        "hash": "2a1751c5cf69506a5091277bc55f3f531fd60347f4b484ea651726002e28243c3c306b93899cdf7b96ef14f2965fe1683d133844468eb16cc5d32c6370ef2304",
+        "github": {
+            "stars": 0,
+            "repo": "xirreal/Clockwork"
+        },
+        "images": []
+    }],
+    "meta": {
+        "name": "Lith's stash",
+        "description": "Just a bunch of random stuff."
+    }
+}
