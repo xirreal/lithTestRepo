@@ -26,10 +26,10 @@
     }, {
         "name": "Hidden channels",
         "description": "Allows you to see the names and topics of channels you normally can't see.",
-        "version": "0.0.0",
+        "version": "0.1.0",
         "tags": ["DOM", "customization"],
         "authors": ["189079074054995969"],
-        "hash": "40c723185665fac632adfbce194726a625440f7335d04439a5bf2da512e3c11f04cd992b344114d5b8f2798facb935761785e652d828ebda9b4f7dd2adb3693c",
+        "hash": "87117be626e67aa0d69dc09c801954f28d8354d6a194e1b9a9ab668660f6d941b9a056633409dfb7611fe431e2d488ce01f583cc4677ac6ba5f9ecff811ed817",
         "github": {
             "stars": 0,
             "repo": "xirreal/HiddenChannels"
