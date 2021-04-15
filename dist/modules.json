@@ -23,6 +23,18 @@
             "repo": "xirreal/Clockwork"
         },
         "images": []
+    }, {
+        "name": "Hidden channels",
+        "description": "Allows you to see the names and topics of channels you normally can't see.",
+        "version": "0.0.0",
+        "tags": ["DOM", "customization"],
+        "authors": ["189079074054995969"],
+        "hash": "40c723185665fac632adfbce194726a625440f7335d04439a5bf2da512e3c11f04cd992b344114d5b8f2798facb935761785e652d828ebda9b4f7dd2adb3693c",
+        "github": {
+            "stars": 0,
+            "repo": "xirreal/HiddenChannels"
+        },
+        "images": []
     }],
     "meta": {
         "name": "Lith's stash",
