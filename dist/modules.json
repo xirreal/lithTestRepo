@@ -8,36 +8,24 @@
         "hash": "d3c677b19c7db2a50e30688ad9e18ff6c1e647afe7fad26af00ba4a8f1b5419c4ef31311fcbbf8906120640379535059b05507c608d73f61b5d969f31edd0e66",
         "github": {
             "stars": 0,
-            "repo": "xirreal/AuroraGSI"
+            "repo": "xirreal/GM-AuroraGSI"
         },
         "images": []
     }, {
-        "name": "Clockwork",
-        "description": "Adds alarms and timers to Discord.",
-        "version": "0.0.1",
-        "tags": ["DOM", "quick-actions"],
+        "name": "Hidden Channels",
+        "description": "Allows you to see the names and the description of hidden channels.",
+        "version": "2.1.0",
+        "tags": ["DOM", "CSS", "ui"],
         "authors": ["189079074054995969"],
-        "hash": "2a1751c5cf69506a5091277bc55f3f531fd60347f4b484ea651726002e28243c3c306b93899cdf7b96ef14f2965fe1683d133844468eb16cc5d32c6370ef2304",
+        "hash": "75caf22f73f2569142b0d990e54d6e769d0e3f584960146784a3d25a5b5614b3106e47d6e7ea3b179aef1206fadc1581d495bf73eb4134af864d8fdbe154347e",
         "github": {
             "stars": 0,
-            "repo": "xirreal/Clockwork"
+            "repo": "xirreal/GM-Hidden-Channels"
         },
-        "images": []
-    }, {
-        "name": "Hidden channels",
-        "description": "Allows you to see the names and topics of channels you normally can't see.",
-        "version": "0.1.0",
-        "tags": ["DOM", "customization"],
-        "authors": ["189079074054995969"],
-        "hash": "87117be626e67aa0d69dc09c801954f28d8354d6a194e1b9a9ab668660f6d941b9a056633409dfb7611fe431e2d488ce01f583cc4677ac6ba5f9ecff811ed817",
-        "github": {
-            "stars": 0,
-            "repo": "xirreal/HiddenChannels"
-        },
-        "images": []
+        "images": ["https://raw.githubusercontent.com/xirreal/GM-Hidden-Channels/main/images/0.png", "https://raw.githubusercontent.com/xirreal/GM-Hidden-Channels/main/images/1.png", "https://raw.githubusercontent.com/xirreal/GM-Hidden-Channels/main/images/2.png"]
     }],
     "meta": {
         "name": "Lith's stash",
-        "description": "Just a bunch of random stuff."
+        "description": "Totally not a sketchy back-alley for plugins."
     }
 }
