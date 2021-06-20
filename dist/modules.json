@@ -14,10 +14,10 @@
     }, {
         "name": "Hidden Channels",
         "description": "Allows you to see the names and the description of hidden channels.",
-        "version": "2.1.0",
+        "version": "2.2.0",
         "tags": ["DOM", "CSS", "ui"],
         "authors": ["189079074054995969"],
-        "hash": "a00e349f146045e6bc21560d7130542d3c3b2545dbe86f005979f05d56c685d7c50a6d432eec5f46793734119b0173a30430ec61834d73f23a21b2c4ca8e1454",
+        "hash": "9e9367c2d0468f0744ed7c20fb0274565359d4e244df5ff56bd8917af2d82f7d4be8ce24a085bb60b47802e07f0381774b50a3358f85b8876327000ed4b363ce",
         "github": {
             "stars": 0,
             "repo": "xirreal/GM-Hidden-Channels"
