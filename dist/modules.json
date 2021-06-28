@@ -17,7 +17,7 @@
         "version": "2.3.0",
         "tags": ["DOM", "CSS", "ui"],
         "authors": ["189079074054995969"],
-        "hash": "8d971f0e03e5f5abc0b12068815db88cf8fcf1ad6fcf779f92606d8985e34daaf48f1a72140b0cb97dd86ae5e9e621359961d6100f1aeeb724a351c5ec74ed68",
+        "hash": "c216a30eef605cd715ab723c5037a3d294aacf973c27b598f186db6a5d3c605361a13b622f3f1b5128ae21e4261eaa27fea0c2d742bbff05457a7b4e92ae5770",
         "github": {
             "stars": 0,
             "repo": "xirreal/GM-Hidden-Channels"
